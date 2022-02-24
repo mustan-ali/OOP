@@ -16,12 +16,12 @@ public class Main {
         auth1.username = "hello";
         auth1.password = "world";
 
-        System.out.println(auth.username + " " + auth.password);
-        // System.out.println(auth1.username + " " + auth1.password);
+        System.out.println("Username: " + auth.username + "   " + "Password: " + auth.password);
+        // System.out.println("Username: " + auth1.username + "   " + "Password: " + auth1.password);
         // auth.PrintData();
         auth1.PrintData();      //Printing using function inside class
 
-        triangle tri = new triangle();
-        tri.PrintTriangle();
+        PrintTriangle tri = new PrintTriangle();
+        tri.printTriangle();
     }
 }

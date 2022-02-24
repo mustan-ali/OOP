@@ -1,8 +1,8 @@
 package com.company;
 
-public class triangle {
+public class PrintTriangle {
 
-     static void PrintTriangle() {
+    public void printTriangle() {
 
         for (int i = 1; i <= 5; i++) {
             for (int j = 1; j <= i; j++) {
