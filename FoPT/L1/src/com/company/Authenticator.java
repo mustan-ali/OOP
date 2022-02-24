@@ -2,8 +2,8 @@ package com.company;
 
 public class Authenticator {
 
-    public String username;
-    public String password;
+    public String username;     //Attribute 1
+    public String password;     //Attribute 2
 
     //function inside class
     public void PrintData() {
