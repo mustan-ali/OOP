@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Username: " + auth.username + "   " + "Password: " + auth.password);
         // System.out.println("Username: " + auth1.username + "   " + "Password: " + auth1.password);
         // auth.PrintData();
-        auth1.PrintData();      //Printing using function inside class
+        auth1.printData();      //Printing using function inside class
 
         PrintTriangle tri = new PrintTriangle();
         tri.printTriangle();
