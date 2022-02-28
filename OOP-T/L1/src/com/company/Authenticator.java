@@ -6,7 +6,7 @@ public class Authenticator {
     public String password;     //Attribute 2
 
     //function inside class
-    public void printData() {
+    public void PrintData() {
         System.out.println("Username: " + username + "   " + "Password: " + password);
     }
 }
