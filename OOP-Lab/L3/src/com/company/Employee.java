@@ -4,6 +4,7 @@ public class Employee {
 
     private int id, salary;
     private String firstName, middleName, lastName, address;
+    public static String companyName;
     private byte age;
 
 
@@ -21,6 +22,10 @@ public class Employee {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    public String getcompanyName() {
+        return companyName;
     }
 
     public int getId() {
@@ -54,7 +59,7 @@ public class Employee {
     }
 
     public String toString() {
-        return "Employee [ id=" + getId() + " --- FullName: " + getFullName() + " --- Salary = Rs." + getSalary()
+        return "Employee [ CompanyName: " + getcompanyName() + " --- id = " + getId() + " --- FullName: " + getFullName() + " --- Salary = Rs." + getSalary()
                 + " --- Age = " + getAge() + " --- Address: " + getAddress() + " ]";
     }
 

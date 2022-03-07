@@ -9,8 +9,9 @@ public class Main {
 
         System.out.println("---------------------------------------------------------------------");
 
+        Employee.companyName="HelloWorld";      //since companyName is static, object-name is not compulsory in the syntax we can use class
+
         Employee e1 = new Employee(101, "Jack", "Sparrow", "JS", 100000);
-        System.out.println(e1.toString());
         e1.setAge((byte) 20);
         e1.setAddress("123 Street");
         System.out.println("Salary after Increment: Rs." + e1.raiseSalary(15));
