@@ -1,20 +1,18 @@
 package com.company;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 
 public class Dealership {
 
     Scanner input = new Scanner(System.in);
-    private Car[] c;        //Object Array
+    private Car[] c;        //Creating Array of class Car
 
     public Dealership() {
         this.c = new Car[3];
     }
 
     public void setC(Car c, int index) {
-        this.c[index] = new Car(c); //Executing Copy constructor
+        this.c[index] = new Car(c);     //Executing Copy constructor
     }
 
     public Car getC(int index) {
