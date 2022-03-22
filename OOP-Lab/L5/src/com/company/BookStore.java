@@ -1,10 +1,10 @@
 package com.company;
 
 public class BookStore {
-    private Book[] books;   //Creating Array of class Book
+    private Book[] books;   //Creating Array Object
 
     public BookStore() {
-        this.books = new Book[100]; //Creating Object of class Book
+        this.books = new Book[100]; //Initializing books 
     }
 
     private void setBooks(Book book, int index) {   //(Book book, ) will call Copy Constructor

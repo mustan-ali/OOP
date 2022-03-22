@@ -7,7 +7,7 @@ public class Main {
         Flight[] flights = new Flight[]{
                 new Flight("PIA-001", "Lahore", "Islamabad", 300),
                 new Flight("PIA-002", "America", "Pakistan", 400),
-                new Flight("PIA-003", "Karachi", "Toronto", 350),
+                new Flight("PIA-003", "Karachi", "Toronto", 350)
         };
 
         AirLine airLine = new AirLine();

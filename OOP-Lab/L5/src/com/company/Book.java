@@ -18,7 +18,7 @@ public class Book {
     }
 
     //Copy Constructor
-    public Book(Book source) {
+    public Book(Book source) {      //copy Object stored in in Book Class
         this.title = source.title;
         this.author = source.author;
         this.publisher = source.publisher;
