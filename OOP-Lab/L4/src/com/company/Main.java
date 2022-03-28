@@ -29,7 +29,7 @@ public class Main {
 
 
         System.out.println("-------------------------------------------------------");
-/*
+        
 
         System.out.print("How many Rectangles do you want to save: ");
         int limit = input.nextInt();
@@ -55,7 +55,7 @@ public class Main {
 //          If we print any object, Java compiler internally invokes the toString() method on the object.
 //          System.out.println("Rectangle [" + i +"] Information: " +"\n" + r[i].toString() + "\n");    //will generate same output
         }
-*/
+
 
     }
 }
