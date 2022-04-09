@@ -14,5 +14,11 @@
 <details>
 <summary><b>OOP-Theory</b></summary>
 </br>
+1. Intro, Object, Class  <br>
+2. Constructor  <br>
+3. Getter, Setter, Encapsulation, (Body Mass Index)  <br>
+4. Integer.parseInt, (Even Odd Array)  <br>
+5. Inheritance, super keyword  <br>
+6. Exception Handling, Try & Catch, int & Integer  
 
 </details>
