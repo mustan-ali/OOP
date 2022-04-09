@@ -23,13 +23,13 @@ public class Main {
 
 
         /*
-        Description	                   |   int	                    |          Integer
-        Type	                       |   Primitive Data type	    |          Integer Wrapper class
-        Memory Usage	               |   4 bytes	                |          16 bytes
-        Type casting to String	       |   Not Possible	            |          Possible
-        Conversion to other base class |   Not Possible	            |          Possible
-        Can use built-in methods	   |   No	                    |          Yes
-        Provides Flexibility	       |   No	                    |          Yes
+        Description________________________int_________________________________Integer
+        Type-------------------------------Primitive Data type-----------------Integer Wrapper class
+        Memory Usage-----------------------4 bytes-----------------------------16 bytes
+        Type casting to String-------------Not Possible----------------------- Possible
+        Conversion to other base class-----Not Possible------------------------Possible
+        Can use built-in methods-----------No----------------------------------Yes
+        Provides Flexibility---------------No----------------------------------Yes
         */
     }
 }
