@@ -8,7 +8,8 @@
 3. Static, Typecasting, toString, (Employee Record, Calculator) <br>
 4. Array of Class, Copy constructor (Car Dealership) <br>
 5. Array Object, (Flight Booking, BookStore) <br>
-6. Inheritance, super keyword  
+6. Inheritance, super keyword <br>  
+7. Inheritance, super keyword  
 </details>
 
 <details>
