@@ -9,7 +9,9 @@
 4. Array of Class, Copy constructor (Car Dealership) <br>
 5. Array Object, (Flight Booking, BookStore) <br>
 6. Inheritance, super keyword <br>  
-7. Inheritance, super keyword  
+7. Inheritance, super keyword <br> 
+8. Exception Handling, Polymorphism, Dynamic & Static polymorphism, Overloading & Overriding
+
 </details>
 
 <details>
