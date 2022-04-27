@@ -22,6 +22,8 @@
 3. Getter, Setter, Encapsulation, (Body Mass Index)  <br>
 4. Integer.parseInt, (Even Odd Array)  <br>
 5. Inheritance, super keyword  <br>
-6. Exception Handling, Try & Catch, int & Integer  
+6. Exception Handling, Try & Catch, int & Integer  <br>
+7. <br>
+8. Polymorphism, Dynamic & Static polymorphism, Overloading & Overriding
 
 </details>
