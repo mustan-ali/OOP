@@ -25,6 +25,7 @@
 5. Inheritance, super keyword  <br>
 6. Exception Handling, Try & Catch, int & Integer  <br>
 7. <br>
-8. Polymorphism, Dynamic & Static polymorphism, Overloading & Overriding
+8. Polymorphism, Dynamic & Static polymorphism, Overloading & Overriding <br>
+9. Abstraction, Abstract Class & Method
 
 </details>
