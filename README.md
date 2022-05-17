@@ -11,7 +11,8 @@
 6. Inheritance, super keyword <br>  
 7. Inheritance, super keyword <br> 
 8. Exception Handling, Polymorphism, Dynamic & Static polymorphism, Overloading & Overriding <br>
-9. Abstraction, Abstract Class & Method, Interface, Polymorphism
+9. Abstraction, Abstract Class & Method, Interface, Polymorphism <br>
+10. Interface
 
 </details>
 
