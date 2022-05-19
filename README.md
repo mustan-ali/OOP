@@ -27,6 +27,7 @@
 6. Exception Handling, Try & Catch, int & Integer  <br>
 7. <br>
 8. Polymorphism, Dynamic & Static polymorphism, Overloading & Overriding <br>
-9. Abstraction, Abstract Class & Method
+9. Abstraction, Abstract Class & Method <br>
+10. Interface
 
 </details>
