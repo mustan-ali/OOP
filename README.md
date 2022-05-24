@@ -13,7 +13,8 @@
 8. Exception Handling, Polymorphism, Dynamic & Static polymorphism, Overloading & Overriding <br>
 9. Abstraction, Abstract Class & Method, Interface, Polymorphism <br>
 10. Interface <br>
-11. Inheritance & Interface
+11. Inheritance & Interface <br>
+12. ArrayList, Association (Grocery List App)
 
 </details>
 
