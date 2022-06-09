@@ -23,6 +23,8 @@ public class Main {
 
         System.out.println(province.getCities() + " are cities of " + province.getName());
 
+        System.out.println("--------------------------------------");
+
         boolean quit = false;       //flag
         int choice = 0;
         printInstructions();
